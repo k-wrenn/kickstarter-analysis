@@ -11,6 +11,10 @@ Based upon our data, we were able to determine the most successful category is t
 In addition, we were able to determine the most successful month of the year amongst all the fundraising campaigns between 2009 and 2017 is the month of May.
 
 
+<img width="256" alt="Outcomes Based on Launch Date" src="https://user-images.githubusercontent.com/74752756/102679070-5995d180-4172-11eb-81a5-97580b119af8.png">
+
+
+
 ## Recommendations Based on Analysis
 
 In order to host a successful fundraising campaign, it is recommended, based on our analysis, to host an event in the month of May and it be of the theater genre.

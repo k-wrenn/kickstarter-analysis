@@ -8,6 +8,10 @@ We performed a data analysis performed on Kickstarter data, which consisted of s
 
 Based upon our data, we were able to determine the most successful category is theater.
 
+<img width="275" alt="Parent Category Outcome" src="https://user-images.githubusercontent.com/74752756/102679094-a2e62100-4172-11eb-88de-a9a62db58b4d.png">
+
+
+
 In addition, we were able to determine the most successful month of the year amongst all the fundraising campaigns between 2009 and 2017 is the month of May.
 
 
